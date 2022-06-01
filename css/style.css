@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: #E6E6E6;
+}
+h1{
+    text-align: center;
+    color: #005677;
+}
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+span{
+    font-weight: bold;
+}
+li span.italic{
+    font-style: italic;  
+}
+ul li.disc{
+    list-style-type: disc;
+}
+li {
+    list-style-type: none;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+}
