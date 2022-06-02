@@ -3,13 +3,13 @@ footer{
     text-align: center;
 }
 header{
-    text-align: center;
     background-color: #E6E6E6;
+    text-align: center;
 }
 h1{
-    text-align: center;
-    color: #005677;
     background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
 }
 h2{
     background-color: #C4C4C4;
